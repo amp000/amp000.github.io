@@ -1,0 +1,1 @@
+- to launch locally run `python -m http.server 8000` and go to `http://127.0.0.1:8000/`
